@@ -1,0 +1,6 @@
+-- Создание таблицы DriverLicense.
+CREATE TABLE IF NOT EXISTS DriverLicense (
+	Id UUID PRIMARY KEY,
+	DateStart TIMESTAMP WITHOUT TIME ZONE,
+	DateEnd TIMESTAMP WITHOUT TIME ZONE
+);

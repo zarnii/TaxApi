@@ -1,0 +1,3 @@
+{
+		"connectionString": "Host=localhost;Port=5432;Database=CarApi;Username=postgres;Password=GDcolllabdemon1"
+}
